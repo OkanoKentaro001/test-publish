@@ -6,7 +6,7 @@
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
   "publishConfig": {
-    "access": "restricted",
+    "access": "public",
     "registry": "https://npm.pkg.github.com/"
   },
   "files": [
