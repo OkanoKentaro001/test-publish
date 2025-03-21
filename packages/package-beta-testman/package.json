@@ -1,5 +1,8 @@
 {
-  "name": "package-beta-testman",
+  "name": "@OkanoKentaro001/package-beta-testman",
   "version": "1.0.0",
-  "main": "index.js"
+  "main": "index.js",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
 }
