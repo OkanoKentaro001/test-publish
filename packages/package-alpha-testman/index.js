@@ -1,7 +1,7 @@
 // packages/package-a/index.js
 
-const exampleFunction = () => {
-  console.log('This is package-alpha-testman');
+const exampleFunctionAlpha = () => {
+  console.log('This is "exampleFunctionAlpha" from package-alpha-testman');
 };
 
-module.exports = { exampleFunction };
+module.exports = { exampleFunctionAlpha };
