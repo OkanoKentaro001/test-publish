@@ -1,8 +1,13 @@
 {
   "name": "@OkanoKentaro001/package-alpha-testman",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "main": "index.js",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
+    "registry": "https://npm.pkg.github.com",
+    "access": "restricted"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OkanoKentaro001/test-publish.git"
   }
 }
